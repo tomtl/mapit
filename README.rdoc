@@ -1,28 +1,6 @@
 == README
+Map It allows users to plot addresses on a map. Addresses can be saved and used later.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The application makes use of the Geocoder gem and the Google Static Maps API. It is an original app created independantly from scratch.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Source code: https://github.com/tomtl/mapit Ideas/Contributions are welcome
